@@ -11,7 +11,8 @@ class Main{
 //        String sl ="This is John Doe";
 //        String otvet = sl.substring(8,12);
 //        System.out.println(otvet);
-//        System.out.println(sl.split(" ")[2]);
+//        System.out.println(sl.split(" ")[2]);\
+        System.out.println("Hello World");
 
 
 
