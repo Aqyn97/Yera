@@ -13,6 +13,7 @@ class Main{
 //        System.out.println(otvet);
 //        System.out.println(sl.split(" ")[2]);\
         System.out.println("Hello World");
+        System.out.println("Hello World2");
 
 
 
